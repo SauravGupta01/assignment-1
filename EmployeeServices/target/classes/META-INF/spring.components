@@ -1,0 +1,7 @@
+com.EmployeeServices.Services.Employee.Employee=javax.persistence.Entity,javax.persistence.Table
+com.EmployeeServices.Services.Employee.EmployeeRedis=org.springframework.data.annotation.Persistent
+com.EmployeeServices.Services.EmployeeServiceImpl.EmployeeServiceImpl=org.springframework.stereotype.Component
+com.EmployeeServices.Services.EmployeeServicesApplication=org.springframework.stereotype.Component,org.springframework.boot.SpringBootConfiguration
+com.EmployeeServices.Services.Employee_Repo.Employee_Repo=org.springframework.data.repository.Repository
+com.EmployeeServices.Services.config.redis_config=org.springframework.stereotype.Component
+com.EmployeeServices.Services.controller.EmployeeController=org.springframework.stereotype.Component
